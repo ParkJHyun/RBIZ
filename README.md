@@ -1,3 +1,8 @@
 # RBIZ
-For R-BIZ competition\n
+For R-BIZ competition
+
+
+
+
+
 Usin MATLAB
